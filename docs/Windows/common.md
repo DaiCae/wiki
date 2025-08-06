@@ -18,7 +18,7 @@
 slmgr.vbs /upk
 # 安装密钥
 slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
-slmgr /skms www.zoxe.top
+slmgr /skms kms.zoxe.top
 slmgr /ato
 ```
 
