@@ -1,4 +1,4 @@
-# PVE NVIDIA 显卡直通
+# PVE SATA 控制器直通
 
 ## 直通准备
 
